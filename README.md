@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **pushkinoxt/pushkinoxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm writing this so that we can fast forward through some getting-to-know-you parts of me that we might miss. Doing so IRL is always better, message me for a coffee?
+
+# About
+
+
+
+

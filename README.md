@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm writing this so that we can fast forward through some getting-to-know-you parts of me that we might miss. Doing so IRL is always better, message me for a coffee?
+IRL is always better, message me.
 
 # About
 
-
+Having fun isn't hard when you've got a library card.
 
 

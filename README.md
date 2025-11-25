@@ -16,9 +16,3 @@ Here are some ideas to get you started:
 -->
 
 IRL is always better, message me.
-
-# About
-
-Having fun isn't hard when you've got a library card.
-
-

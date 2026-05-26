@@ -1,4 +1,5 @@
 # Hi there 👋
+Currently taking a sabbatical from the day job and tackling a fun side quest along the way.
 
 <!--
 **pushkinoxt/pushkinoxt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +15,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-IRL is always better, message me.
